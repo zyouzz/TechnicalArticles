@@ -63,7 +63,7 @@
 ### 1.1 防火墙的关闭（可选）
 停止防火墙
 
-    [root@server127 home]# systemctl stop firwalld.service
+    [root@server127 home]# systemctl stop firewalld.service
 
 禁用防火墙的开机启动
 
